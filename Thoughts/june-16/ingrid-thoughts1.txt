@@ -1,0 +1,5 @@
+Git workshop is very helpful.
+The pace is good for doing hands-on practice
+I like having the detailed website and cheatsheets
+Etherpad is also useful for future questions and easy way to find links
+Looking forward on integrating files that are on Github
