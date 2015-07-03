@@ -1,0 +1,6 @@
+Name: Bahar
+
+Thoughts:
+It was really helpful that "sandbox" folder was created and we all got a chance to practice pull and push on it. 
+It would have been more useful if all teh students could do the last exercise (pushing a file and  then resolving the conflict). For that, maybe multiple folders could have been created and each two students could have push and pull files to one of these folders and then tried to resolve the conflict.
+

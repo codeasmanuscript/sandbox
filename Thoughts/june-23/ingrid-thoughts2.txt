@@ -1,0 +1,3 @@
+Useful workshop for how to integrate Github.
+Pace was good, just need to go over the push/pull with origin vs master
+Kinda got lost at the end when you were explaining the conflicts but I'll read up on that.
