@@ -1,0 +1,5 @@
+Renata Musa, part-time MPH student
+OEH Program, DLSPH
+Analysis: I am using mostly logistic regression
+
+Version control is a system that keeps track of all changes made to one or multiple files. It's just great to be used especially when working in a team and everyone can see who did what change. I think it's very useful, but unfortunately I am not sure if older people in research environment really use it.
