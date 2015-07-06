@@ -1,0 +1,5 @@
+The 3rd workshop (macros) was the best in terms of content and interest. I've just loved learning about macros. I found them very useful in my analysis. When I'll be presenting the code to my supervisor, I am sure I'll impress her showing how much I learned in a short period of time. It's pretty cool for a beginner and simple macros are not that difficult to be built.
+
+In addition to the macro experience, I found really useful the points regarding best practices when writing SAS code (when to use tabs, being consistent, etc). I didn't know about them.
+
+As usual, I get most of the understanding when reviewing the code at home. Good notes and/or the code provided are the key for the learning process (in my case). The teaching speed was just perfect for good notes and understanding the code. Excellent job Daiva and Luke and really good stuff!! Now I wish you were teaching more sessions.  :-)
