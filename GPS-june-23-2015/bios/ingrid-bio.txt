@@ -1,1 +1,11 @@
-my bio
+Ingrid
+PhD Nutritional Sciences
+Multiple linear and logistic regression, PCA, GEE
+
+Version control
+-tracks any changes made in your files/folders
+-saves all previous versions of the files
+-allows for neater documentation of files
+-important for knowing exactly what changes have been made in the files
+-allows recovery of old versions of files
+-can create a branch of the master file to work on without damaging the master files
